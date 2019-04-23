@@ -1,5 +1,7 @@
 # NodeJS-MySQL-pagination-example
 
+![Alt text](NodeJsMySQL-pagination.png)
+
 Source code for tutorial NodeJS MySQL pagination example : http://programmerblog.net/
 
 Following tasks are performed in this tutorial:
